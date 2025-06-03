@@ -29,6 +29,7 @@ import java.util.Map;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
+@CrossOrigin(origins = "*")
 @RestController
 @RequestMapping("/enhancedFile")
 public class EnhancedFileController {

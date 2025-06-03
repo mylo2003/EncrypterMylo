@@ -10,9 +10,9 @@
     </parent>
     <groupId>com.encriptador</groupId>
     <artifactId>EncrypterMylo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-STABLE</version>
     <name>EncrypterMylo</name>
-    <description>Encriptador de archivos</description>
+    <description>Encriptador de archivos como proyecto para Seguridad Informática</description>
     <url/>
     <licenses>
         <license/>
@@ -34,7 +34,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
-
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
@@ -61,20 +60,18 @@
             <groupId>com.fasterxml.jackson.datatype</groupId>
             <artifactId>jackson-datatype-jsr310</artifactId>
         </dependency>
-
-        <!-- Para algoritmos de cifrado adicionales (opcional) -->
+        <!-- Para algoritmos de cifrado adicionales -->
         <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcprov-jdk15on</artifactId>
             <version>1.70</version>
         </dependency>
-
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-compress</artifactId>
             <version>1.24.0</version>
         </dependency>
-
+        <!-- Para descomprimir .rar .zip -->
         <dependency>
             <groupId>com.github.junrar</groupId>
             <artifactId>junrar</artifactId>
@@ -110,5 +107,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
