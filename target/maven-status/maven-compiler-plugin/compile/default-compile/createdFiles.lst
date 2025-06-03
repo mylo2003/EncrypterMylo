@@ -1,0 +1,15 @@
+com\encriptador\EncrypterMylo\model\EncryptionMetadata.class
+com\encriptador\EncrypterMylo\service\EnhancedKeyService.class
+com\encriptador\EncrypterMylo\service\KeyService.class
+com\encriptador\EncrypterMylo\EncrypterMyloApplication.class
+com\encriptador\EncrypterMylo\controller\FileController.class
+com\encriptador\EncrypterMylo\model\HybridEncryptedData.class
+com\encriptador\EncrypterMylo\model\SignedHybridEncryptedData.class
+com\encriptador\EncrypterMylo\service\CompressionService.class
+com\encriptador\EncrypterMylo\utils\ZipUtil.class
+com\encriptador\EncrypterMylo\service\DigitalSignatureService.class
+com\encriptador\EncrypterMylo\model\EncryptionAlgorithm.class
+com\encriptador\EncrypterMylo\service\CryptoUtilService.class
+com\encriptador\EncrypterMylo\controller\EnhancedFileController.class
+com\encriptador\EncrypterMylo\service\EnhancedEncryptionService.class
+com\encriptador\EncrypterMylo\service\EncryptionService.class

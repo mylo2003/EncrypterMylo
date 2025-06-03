@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.encriptador.EncrypterMylo.EncrypterMyloApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.295 s -- in com.encriptador.EncrypterMylo.EncrypterMyloApplicationTests
